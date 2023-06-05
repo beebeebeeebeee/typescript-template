@@ -1,0 +1,19 @@
+{
+    "name": "typescript-template",
+    "version": "1.0.0",
+    "description": "The template for typescript nodejs project.",
+    "main": "src/index.ts",
+    "scripts": {
+        "start": "ts-node src/index.ts"
+    },
+    "keywords": ["typescript", "template"],
+    "author": "Fung Mak",
+    "license": "ISC",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "@types/node": "^18.16.3",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.0.4"
+    }
+}
